@@ -1,0 +1,16 @@
+{
+    "media": [
+        {
+            "defName": "FONT_ROMAN_SD_28",
+            "type": "font",
+            "file": "fonts/Roman_SD.ttf"
+        },
+        {
+            "defName": "IMAGE_MOSAIC_FRAME",
+            "type": "png",
+            "file": "images/mosaic-frame.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
