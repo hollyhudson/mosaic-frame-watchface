@@ -1,7 +1,7 @@
 {
     "media": [
         {
-            "defName": "FONT_ROMAN_SD_28",
+            "defName": "FONT_ROMAN_SD_24",
             "type": "font",
             "file": "fonts/Roman_SD.ttf"
         },

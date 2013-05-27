@@ -100,7 +100,7 @@ handle_init( AppContextRef ctx)
 	
 	// Tell it what font to use
 	myfont = fonts_load_custom_font(
-		resource_get_handle(RESOURCE_ID_FONT_ROMAN_SD_28));
+		resource_get_handle(RESOURCE_ID_FONT_ROMAN_SD_24));
 
 	// Add TIME
 	// GRect takes x,y,w,h
