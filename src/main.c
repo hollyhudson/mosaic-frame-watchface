@@ -109,6 +109,7 @@ handle_init( AppContextRef ctx)
 	text_layer_set_text(&text_time, "");
 	text_layer_set_background_color(&text_time, GColorClear);
 	text_layer_set_text_color(&text_time, GColorWhite);
+	text_layer_set_text_alignment(&text_time, GTextAlignmentCenter);
 	layer_add_child(&window.layer, &text_time.layer);
 	
 	/*********************** CODE FOR INCLUDING DATE ****************
